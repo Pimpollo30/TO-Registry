@@ -12,8 +12,8 @@ Este es un recurso de mi proyecto **Theft Operation** en *Multi Theft Auto: San 
 ## Aspectos a considerar
 * El recurso utiliza la base de datos SQLite nativa de MTA:SA
 * Para que el recurso funcione correctamente, requiere el uso de otros recursos, los cuales son los siguientes:
-    * [TO]Apariencias
-    * [TO]Notificaciones
+    * [[TO]Apariencias](https://github.com/Pimpollo30/TO-Apariencias)
+    * [[TO]Notificaciones](https://github.com/Pimpollo30/TO-Notificaciones)
 
 
 ### Autor
