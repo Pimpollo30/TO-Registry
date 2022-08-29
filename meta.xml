@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abraham Raymundo" version="6.1" name="Sistema de Guardado de Datos de Theft Operation" type="script" />
+	<script src="server.lua" type="server" />
+</meta>
